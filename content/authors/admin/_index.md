@@ -11,9 +11,9 @@ interests:
 - Statistics
 - Machine Learning
 organizations:
-- name: Stanford University
+- name: Monash University
   url: ""
-role: Professor of Artificial Intelligence
+role: Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -28,10 +28,10 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Lachlan Moody
 user_groups:
 - Researchers
 - Visitors
 ---
 
-
+My own bio
